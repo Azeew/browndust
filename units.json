@@ -1,0 +1,20 @@
+{
+  "lucius": {
+    "name": "Lucius, the Night of Pride",
+    "type": "Defense",
+    "skill1": "Ressurrection",
+    "skill2": "Death Guard",
+    "skill3": "Soul Strike",
+    "skill4": "Masochism",
+    "stats": {
+      "atk": "920",
+      "hp": "7460",
+      "def": "10%",
+      "critrate": "10%",
+      "critdmg": "50%",
+      "agi": "0%"
+    }
+  }
+
+
+}
