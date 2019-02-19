@@ -1,0 +1,36 @@
+{
+  "lucius": {
+    "name": "Lucius, the Night of Pride",
+    "icon": "https://lh3.googleusercontent.com/to90Mf8IEdfE2JDPWRzeBw9h2kqZAVShN84yyHlsUP75aocbaRmerBnVivIaZMOsVjdewXRncTMH5DF0vZOR8oLSZAK4qgUcNA8osD9lchn3=w120",
+    "type": "Defense",
+    "skill1": {
+      "name": "Ressurrection",
+      "desc": "Resurrects with fixed quantity of HP when received DMG to death.",
+      "value": "MAX HP x100% Instant Healing",
+      "cond":"", 
+      "dur": ""
+    },
+    "skill2": {
+      "name": "Death Guard",
+      "desc": "Do not receive any DMG. Death Guard disappears after receiving enemy's normal attack for certain number of times.",
+      "value": "Effective normal attack count: 6"
+    },
+    "skill3": {
+      "name": "Soul Strike",
+      "desc": "Deals additional DMG to the enemy.",
+      "value": "Enemy's current HP x25% Additional DMG"
+    },
+    "skill4": {
+      "name": "Masochism",
+      "desc": "Receives Heling from enemy's normal attack.",
+      "value": "MAX HP x36% Instant Healing"
+    },
+    "stats": {
+      "atk": "920",
+      "hp": "7460",
+      "def": "10%",
+      "critrate": "10%",
+      "critdmg": "50%",
+      "agi": "0%"
+    }
+  },
