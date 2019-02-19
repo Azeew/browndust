@@ -1,0 +1,43 @@
+{
+  ""{                   defines the command (lucius, glacia, foxy)
+    "name": "",         name of the unit (Lucius, the Night of Pride)
+    "icon": "",         leave blank
+    "type": "",         Defense, Warrior, Support or Magician
+    "skill1": {         leave blank
+      "name": "",       name of skill 1 (Ressurrection)
+      "desc": "",       description of skill 1 (Resurrects with fixed...)
+      "value": ""       value of skill 1 (MAX HP x100% Instant Healing)
+      "cond": "",       condition to proc (Before being attacked, After Attacking)
+      "dur": ""         duration of the skill (6 turns)
+    },
+    "skill2": {         repeat for all 4 skills ^
+      "name": "",
+      "desc": "",
+      "value": ""
+      "cond": "",
+      "dur": ""
+    },
+    "skill3": {
+      "name": "",
+      "desc": "",
+      "value": ""
+      "cond": "",
+      "dur": ""
+    },
+    "skill4": {
+      "name": "",
+      "desc": "",
+      "value": ""
+      "cond": "",
+      "dur": ""
+    },
+    "stats": {
+      "atk": "",           900
+      "hp": "",            10000
+      "def": "",           20%
+      "critrate": "",      50%
+      "critdmg": "",       100%
+      "agi": ""            0%
+    }
+  }
+}
