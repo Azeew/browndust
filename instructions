@@ -3,6 +3,8 @@
     "name": "",         name of the unit (Lucius, the Night of Pride)
     "icon": "",         leave blank
     "type": "",         Defense, Warrior, Support or Magician
+    "aoe": "",          1x1, 1x2, 1x3, 1x4, 1x5, 3x1, 5x1, 3x3, 5x5... 
+    "atktype": "",      Front, Skip, Back
     "skill1": {         leave blank
       "name": "",       name of skill 1 (Ressurrection)
       "desc": "",       description of skill 1 (Resurrects with fixed...)
