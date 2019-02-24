@@ -21,6 +21,9 @@
       "value": "",
       "cond": "",
       "dur": ""
+      "sub1": "",
+      "sub2": "",
+      "sub3": ""
     },
     "skill3": {
       "name": "",
@@ -28,6 +31,9 @@
       "value": "",
       "cond": "",
       "dur": ""
+      "sub1": "",
+      "sub2": "",
+      "sub3": ""
     },
     "skill4": {
       "name": "",
@@ -35,6 +41,9 @@
       "value": "",
       "cond": "",
       "dur": ""
+      "sub1": "",
+      "sub2": "",
+      "sub3": ""
     },
     "stats": {
       "atk": "",
