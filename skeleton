@@ -11,9 +11,7 @@
       "value": "",
       "cond": "",
       "dur": "",
-      "sub1": "",
-      "sub2": "",
-      "sub3": ""
+      "subs": ""
     },
     "skill2": {
       "name": "",
@@ -21,9 +19,7 @@
       "value": "",
       "cond": "",
       "dur": "",
-      "sub1": "",
-      "sub2": "",
-      "sub3": ""
+      "subs": ""
     },
     "skill3": {
       "name": "",
@@ -31,9 +27,7 @@
       "value": "",
       "cond": "",
       "dur": "",
-      "sub1": "",
-      "sub2": "",
-      "sub3": ""
+      "subs": ""
     },
     "skill4": {
       "name": "",
@@ -41,9 +35,7 @@
       "value": "",
       "cond": "",
       "dur": "",
-      "sub1": "",
-      "sub2": "",
-      "sub3": ""
+      "subs": ""
     },
     "stats": {
       "atk": "",
